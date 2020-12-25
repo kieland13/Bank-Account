@@ -1,0 +1,11 @@
+F:\DCTC\NET1\Chapter5\CreditLimitCalculator\CreditLimitCalculator\obj\Debug\netcoreapp3.1\CreditLimitCalculator.csprojAssemblyReference.cache
+F:\DCTC\NET1\Chapter5\CreditLimitCalculator\CreditLimitCalculator\obj\Debug\netcoreapp3.1\CreditLimitCalculator.AssemblyInfoInputs.cache
+F:\DCTC\NET1\Chapter5\CreditLimitCalculator\CreditLimitCalculator\obj\Debug\netcoreapp3.1\CreditLimitCalculator.AssemblyInfo.cs
+F:\DCTC\NET1\Chapter5\CreditLimitCalculator\CreditLimitCalculator\bin\Debug\netcoreapp3.1\CreditLimitCalculator.exe
+F:\DCTC\NET1\Chapter5\CreditLimitCalculator\CreditLimitCalculator\bin\Debug\netcoreapp3.1\CreditLimitCalculator.deps.json
+F:\DCTC\NET1\Chapter5\CreditLimitCalculator\CreditLimitCalculator\bin\Debug\netcoreapp3.1\CreditLimitCalculator.runtimeconfig.json
+F:\DCTC\NET1\Chapter5\CreditLimitCalculator\CreditLimitCalculator\bin\Debug\netcoreapp3.1\CreditLimitCalculator.runtimeconfig.dev.json
+F:\DCTC\NET1\Chapter5\CreditLimitCalculator\CreditLimitCalculator\bin\Debug\netcoreapp3.1\CreditLimitCalculator.dll
+F:\DCTC\NET1\Chapter5\CreditLimitCalculator\CreditLimitCalculator\bin\Debug\netcoreapp3.1\CreditLimitCalculator.pdb
+F:\DCTC\NET1\Chapter5\CreditLimitCalculator\CreditLimitCalculator\obj\Debug\netcoreapp3.1\CreditLimitCalculator.dll
+F:\DCTC\NET1\Chapter5\CreditLimitCalculator\CreditLimitCalculator\obj\Debug\netcoreapp3.1\CreditLimitCalculator.pdb
